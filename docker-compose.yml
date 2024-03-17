@@ -24,7 +24,7 @@ services:
 
   # Disabled for now: Storing data locally in server with a volume instead
   # weaviate:
-  #   image: semitechnologies/weaviate:1.19.5
+  #   image: cr.weaviate.io/semitechnologies/weaviate:1.19.5
   #   command:
   #     - --host
   #     - 0.0.0.0
